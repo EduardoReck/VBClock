@@ -1,0 +1,5 @@
+[History]
+1=#P0#=mb	#P1#=Command1_Click	#P2#=Project1/Form1/Command1_Click	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20250120145309	#P7#=0	#P8#=8	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=Project1/Form1/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20250120144743	#P7#=0	#P8#=3	.
+3=#P0#=mb	#P1#=Winsock1_DataArrival	#P2#=Project1/Form1/Winsock1_DataArrival	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20250116102748	#P7#=0	#P8#=-2	.
+4=#P0#=mb	#P1#=Form_Unload	#P2#=Project1/Form1/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20250116102416	#P7#=0	#P8#=-2	.
